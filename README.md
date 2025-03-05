@@ -1,1 +1,1 @@
-# Inspirit-AI
+# StockBTC-Sentiment-Price
